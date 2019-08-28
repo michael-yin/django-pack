@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'django-pack'
+project = 'Django Pack'
 copyright = '2019, michaelyin'
 author = 'michaelyin'
 
