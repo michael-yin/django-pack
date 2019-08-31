@@ -1,4 +1,4 @@
-# Django SssS Guide
+# Django SaaS Guide
 
 This is an open-source guide which helps you better **build SaaS using Django**
 
